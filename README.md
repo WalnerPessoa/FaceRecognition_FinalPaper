@@ -43,6 +43,7 @@ Tabela1: Tópicos de assuntos
 - Face Applications
 - Object Tracking
 - Medical Computer Vision
+
 Fonte: Pyimagesearch.com
 
 Como a pesquisa é acadêmica, encontrar bibliotecas de código aberto é uma alternativa muito promissora, desta forma, a pesquisa
@@ -61,4 +62,5 @@ Tabela2: Tópicos de assuntos
 - OpenCV Face Recognition 2018.
 - Facial landmarks with dlib, OpenCV, and Python. 2017.
 - (Faster) Facial landmark detector with dlib. 2018.
+
 Fonte: Pyimagesearch.com
