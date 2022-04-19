@@ -9,7 +9,9 @@ Link do artigo de conclusão de Curso (TCC) - Final Paper: https://repositorio.u
 ----- abaixo segue trecho do artigo referente a APRESENTAÇÃO E ANÁLISE DOS RESULTADOS
 
 4. APRESENTAÇÃO E ANÁLISE DOS RESULTADOS
+
 4.1 Levantamento bibliográfico de tutoriais.
+
 Como o objetivo desse projeto estava focado em criar um protótipo para reconhecimento de faces humanas, foram pesquisados diversos
 conteúdos disponíveis na Internet, entretanto um site se destacou na pesquisa: o site Pyimagesearch, um ambiente que se
 compromete usar visão computacional e Deep Learning de maneira bem aprofundada, com uma didática adequada e com referências de
@@ -22,6 +24,7 @@ foram mais de 5 tutoriais estudados para conseguir o melhor resultado e a duraç
 2019 até fevereiro de 2020.
 
 4.2 Escolha do método de reconhecimento facial.
+
 O critério para escolher dentre os mais de 350 tutoriais de acesso gratuitos para soluções de problemas do mundo real foi o fato do
 protótipo precisar de uma forma de usar o reconhecimento facial tanto para fotos estáticas quanto para vídeos. O site tem os
 assuntos categorizados por catorze tópicos:
