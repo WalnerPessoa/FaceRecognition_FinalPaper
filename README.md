@@ -3,9 +3,10 @@ Trabalho de Conclusão de Curso da graduação Engenharia da Computação em 202
 
 # Título do artigo: 
 Identificar autoridades por meio de reconhecimento facial. Uso de tecnologia de visão computacional como alternativa para antigo processo de fotogramas (Carômetro). 
+
 Link do artigo de conclusão de Curso (TCC) - Final Paper: https://repositorio.uniceub.br/jspui/bitstream/prefix/15431/1/21801644.pdf
 
------ abaixo segue trexo do artigos referente a APRESENTAÇÃO E ANÁLISE DOS RESULTADOS
+----- abaixo segue trecho do artigo referente a APRESENTAÇÃO E ANÁLISE DOS RESULTADOS
 
 4. APRESENTAÇÃO E ANÁLISE DOS RESULTADOS
 4.1 Levantamento bibliográfico de tutoriais.
