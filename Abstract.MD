@@ -20,6 +20,8 @@ simplifies the development of applications to train a model with images of feder
 example, and offer a tool for lobbyists to stop using frames with the image and name of
 parliamentarians (“Carômetro”) printed on paper and start using Deep Learning technological
 solutions within the reach of lay people.
+
+
 keywords: Facial detection, Artificial Intelligence, Deep Learning, OpenCV, Dlib, Encoding,
 Face Embeddings, CNN Method, Python, HOG Method, Lobby, Turnover, Defense of
 interest.
