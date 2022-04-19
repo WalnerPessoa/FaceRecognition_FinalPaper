@@ -55,10 +55,10 @@ Os nomes dos tutoriais encontrados estão abaixo, sendo o mais importante o prim
 complementares:
 
 Tabela2: Tópicos de assuntos
-• Face recognition with OpenCV, Python, and deep learning. 2018.
-• Face Alignment with OpenCV and Python. 2017
-• How to (quickly) build a deep learning image dataset. 2018.
-• OpenCV Face Recognition 2018.
-• Facial landmarks with dlib, OpenCV, and Python. 2017.
-• (Faster) Facial landmark detector with dlib. 2018.
+- Face recognition with OpenCV, Python, and deep learning. 2018.
+- Face Alignment with OpenCV and Python. 2017
+- How to (quickly) build a deep learning image dataset. 2018.
+- OpenCV Face Recognition 2018.
+- Facial landmarks with dlib, OpenCV, and Python. 2017.
+- (Faster) Facial landmark detector with dlib. 2018.
 Fonte: Pyimagesearch.com
